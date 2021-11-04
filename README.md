@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hola I am Harsha! 👋
 
-<!--
-**harsha-kidambi/harsha-kidambi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working in DBS Bank as a Java Full Stack Developer.
+- 🌱 I’m currently learning Angular.
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+- 💬 Ask me about Cyber security related aspects.
+<!-- - 📫 How to reach me:  -->
+- 😄 Pronouns: He/His
+<!-- - ⚡ Fun fact: I spend most of the time listening  -->
+
