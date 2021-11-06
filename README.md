@@ -30,7 +30,7 @@
 
 ### Training & Certifications:
 
-[<img align="left" alt="CEH" width="40px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/1.jpg" />][CEH]
+[<img align="left" alt="CEH" width="40px" src="https://user-images.githubusercontent.com/32995285/140595975-366938f9-3ae0-43c2-88b2-6bb5f8eb5d44.png" />][CEH]
 
 
 
