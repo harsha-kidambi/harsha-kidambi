@@ -1,8 +1,8 @@
 ### Hola I am Harsha! 👋
 
+* Full Stack Developer
 * Certified Ethical Hacker
 * Security Researcher
-* Full Stack Developer
 
 ### Languages and Tools
 
