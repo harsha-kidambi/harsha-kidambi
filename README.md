@@ -4,8 +4,6 @@
 
 ### Languages and Tools
 
-<img align="left" alt="Spring Boot" width="26px" src="https://user-images.githubusercontent.com/32995285/140377980-fd4f4034-5263-4c7b-b3dc-d2666b09adbf.png" />
-<img align="left" alt="SQL" width="26px" src="https://user-images.githubusercontent.com/32995285/140377980-fd4f4034-5263-4c7b-b3dc-d2666b09adbf.png" />
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/32995285/140377980-fd4f4034-5263-4c7b-b3dc-d2666b09adbf.png" />
 <img align="left" alt="Metasploit" width="26px" src="https://user-images.githubusercontent.com/32995285/140378981-764880af-2c93-4571-93ef-70be812323cd.png" />
 <img align="left" alt="Burp Suite" width="26px" src="https://user-images.githubusercontent.com/32995285/140379262-f7fe4a3a-c4f3-44d5-82d7-582475f491c5.png" />
@@ -20,10 +18,9 @@
 
 ### Diving into Details
 
-- 🔭 I’m currently working in DBS Bank as a Java Full Stack Developer.
-- 🌱 I’m currently learning Angular.
-- 💬 Ask me about Cyber security related aspects.
-- 😄 Pronouns: He/His
+- 🔭 I’m a Backend Java Developer working at DBS Tech India
+- 💬 Curious guy who likes to explore into latest tech trends
+- 😄 Pronouns: He/Him
 <br />
 <img src="https://github-readme-stats.vercel.app/api?username=harsha-kidambi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <br />
