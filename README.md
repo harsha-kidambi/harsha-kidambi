@@ -1,11 +1,11 @@
 ### Hola I am Harsha! 👋
 
-* Full Stack Developer
-* Certified Ethical Hacker
-* Security Researcher
+* Backend Java Developer
 
 ### Languages and Tools
 
+<img align="left" alt="Spring Boot" width="26px" src="https://user-images.githubusercontent.com/32995285/140377980-fd4f4034-5263-4c7b-b3dc-d2666b09adbf.png" />
+<img align="left" alt="SQL" width="26px" src="https://user-images.githubusercontent.com/32995285/140377980-fd4f4034-5263-4c7b-b3dc-d2666b09adbf.png" />
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/32995285/140377980-fd4f4034-5263-4c7b-b3dc-d2666b09adbf.png" />
 <img align="left" alt="Metasploit" width="26px" src="https://user-images.githubusercontent.com/32995285/140378981-764880af-2c93-4571-93ef-70be812323cd.png" />
 <img align="left" alt="Burp Suite" width="26px" src="https://user-images.githubusercontent.com/32995285/140379262-f7fe4a3a-c4f3-44d5-82d7-582475f491c5.png" />
